@@ -6,7 +6,7 @@ job titles, experience levels, company sizes and countries worldwide.
 
 ## Tools Used
 - Microsoft Excel (data cleaning, pivot tables, analysis)
-- Tableau Public (data visualization, dashboard)
+- Tableau Public (data visualisation, dashboard)
 
 ## Key Insights
 1. **Analytics Engineering Manager is the highest paying role** at $399,880 average salary
