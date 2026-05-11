@@ -1,7 +1,7 @@
 # Data Science Jobs & Salary Analysis 2024
 
 ## Project Overview
-Analyzed 6,600 data science job records to uncover salary trends across 
+Analysed 6,600 data science job records to uncover salary trends across 
 job titles, experience levels, company sizes and countries worldwide.
 
 ## Tools Used
