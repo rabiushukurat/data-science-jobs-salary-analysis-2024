@@ -16,6 +16,7 @@ job titles, experience levels, company sizes and countries worldwide.
 
 ## Dashboard
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/DataScienceJobsSalaryAnalysis2024/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Power BI Dashboard](powerbi.png)
 
 ## Dataset
 Source: Kaggle — Data Science Salaries 2024 Dataset
